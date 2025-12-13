@@ -13,5 +13,5 @@ Group Members
 1.Wongel yohannes - ID: [2012/16] - GitHub: [Evanjohannes]
 2,Hanan Hassen - ID: [0982/16] - GitHub: [Hanan83-code]
 [Isra Ahmed] - ID: [1080/16] - GitHub: [isru-63]
-[Werkyantfu Tewachew] - ID: [1993/16] - GitHub: [werke2112]
+[Werkyantfu Tewachew] - ID: [1993/16] - GitHub: [codeofwe]
 [Nuhamin Getachew] - ID: [1574/16] - GitHub: [nuhaming]
