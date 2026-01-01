@@ -1,7 +1,11 @@
-# SmartHire Job Platform
+# jobify Job Platform
 ## SEng5331 Group Project
 
 **Description:** A web-based job recruitment platform connecting employers and job seekers.
+and our project is defer from other jobhireing platform is the job seeker can buled it on
+cv on the platform based on the informatin that they enter also employer and ojb seker can mesagne in the platform
+without going to other text options also it has it own chatbote that jobseeker can practice for interview and also ask any thig that he want so
+the chat bot will suport the jobseeker
 
 # Group Members:
 
