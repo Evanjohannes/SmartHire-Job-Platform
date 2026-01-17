@@ -1,0 +1,21 @@
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.Test;
+
+public class JobTest {
+
+    @Test
+    void testJobCreation() {
+        Job job = new Job("Software Engineer", "Full-time");
+
+        assertEquals("Software Engineer", job.getTitle());
+        assertEquals("Full-time", job.getJobType());
+    }
+
+    @Test
+    void testJobStatusChange() {
+        Job job = new Job();
+        job.setStatus("OPEN");
+
+        assertEquals("OPEN", job.getStatus());
+    }
+}
